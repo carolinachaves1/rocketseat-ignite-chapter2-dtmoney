@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# dtmoney
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto desenvolvido no capítulo II da Trilha ReactJs do curso Ignite da [Rockeseat](https://www.rocketseat.com.br/ignite).
 
 ## Available Scripts
 
